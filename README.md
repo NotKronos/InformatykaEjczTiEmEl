@@ -1,1 +1,2 @@
 # InformatykaEjczTiEmEl
+Ogólnie super strona
