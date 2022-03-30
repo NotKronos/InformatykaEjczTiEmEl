@@ -1,5 +1,9 @@
 body {
   text-align: center;
   font-family: Comic Sans MS; 
-  color: black;
+  color: white;
+  background-color: #262626;
+}
+ul {
+  list-style-type: none;
 }
